@@ -1,2 +1,3 @@
 # hello-world
-just simple repository
+Hi everyone!
+I'm Dima and I like cats:3
